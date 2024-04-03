@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 50%;
+    width: 35%;
 }
 
 .cabecalho-lista-item{
@@ -63,3 +63,7 @@ body {
     padding: 16px 0;
 }
 
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
